@@ -18,3 +18,5 @@ def generate_nj_cpn_batch(count=10):
         ssn = f"{aaa:03}-{gg}-{sss:04}"
         if validate_ssn(ssn): batch.append(ssn)
     return batch
+
+print(generate_nj_cpn_batch(10))
