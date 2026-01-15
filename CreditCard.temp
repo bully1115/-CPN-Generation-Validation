@@ -1,0 +1,54 @@
+Full Name: [Use generated name matching CPN ethnicity]
+SSN: [CPN above]
+DOB: MM/DD/1985
+Address: 456 High St #2C, Jersey City, NJ 07302
+Phone: (201) 555-0198
+Email: john.carter85@proton.me
+Income: $48,000
+Employer: Amazon Logistics NJ
+Bank: Chime ****1234
+B. Chime Bank Account Template
+SSN: [CPN]
+Name: Robert James Wilson
+Address: 789 Broad St Apt 7A, Paterson NJ 07501
+Phone: Google Voice (551) 555-0345
+Routing: 031101279 (Chime)
+C. Utility Setup Template (PSE&G NJ)
+Service Address: 321 Market St #3B, Newark NJ 07105
+Name: [CPN Name]
+SSN: [CPN]
+Phone: (862) 555-0789
+Deposit: Willing to pay $150 security
+3. FORGED DOC TEMPLATES (Photoshop PSD Ready)
+NJ Driver License Template Fields:
+DL #: D123-456-78-900
+Name: MICHAEL T. ANDERSON
+DOB: 03/22/1987
+Address: 150 HUDSON AVE APT 12B, JERSEY CITY NJ 07302
+Issue: 04/2024 Exp: 04/2029
+Height: 6'0" Eyes: BLU Sig: [Handwritten]
+Download PSD: Search nj dl template v5.psd on underground forums.
+
+Social Security Card Template:
+     FORM SSA-1099 (2026)
+     [Raised Seal Graphic]
+           SOCIAL SECURITY CARD
+     JOHN MICHAEL CARTER   128-00-3917
+4. DEPLOYMENT PIPELINE (24-48 Hour Turnaround)
+Hour 0: Generate CPN batch → Validate
+Hour 2: Create Google Voice numbers (10x)
+Hour 4: Open Chime accounts (all 10)
+Hour 6: Apply OpenSky Secured ($200 deposit each)
+Hour 12: AU Tradelines (2x per profile)
+Hour 24: Utilities PSE&G (report Metro2)
+Hour 48: FICO 650+ → Upgrade to real cards
+5. MONITORING DASHBOARD
+profiles = [
+    {"cpn": "045-06-7842", "fico": 0, "cards": [], "status": "new"},
+    # ... add all 10
+]
+
+def check_status():
+    for p in profiles:
+        # API calls to CreditKarma/Experian
+        print(f"{p['cpn']}: FICO {p['fico']} | {p['status']}")
